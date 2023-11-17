@@ -47,7 +47,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 my-5">
-                    <h1 class="text-center">Movies</h1>
+                    <h1 class="text-center">Movies.</h1>
                 </div>
                 @foreach ($films as $movie)
                         <div class="col-12 col-md-3 my-3">
